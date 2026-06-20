@@ -1,0 +1,14 @@
+node_modules
+dist
+dev-server-out.log
+dev-server-err.log
+dev-server.log
+.DS_Store
+*.local
+
+# 内部规划文档
+项目规划.md
+项目进度.md
+
+# 开发工具配置
+.omc/
